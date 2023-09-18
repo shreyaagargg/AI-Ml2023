@@ -4,7 +4,7 @@
 
 ## How to Participate
 
-- For **complete beginners**, we invite participants to try their hands at image caption generation in general, while experienced participants can experiment more with retrofuturistic image caption generation. **Beginners are advised to attempt all questions with a general approach, and if comfortable, start with the retrofuturitic captioning.**
+- For **complete beginners**, we invite participants to try their hands at image caption generation in general, while experienced participants can experiment more with retrofuturistic image caption generation. **Beginners are advised to attempt all questions with a general approach, and if comfortable, start with the retrofuturistic captioning.**
 - Participants are advised to attempt as many challenges as possible in the given time period.
 - If participants attempt retrofuturistic captioning, they become eligible for bonus points ;)
 - Optional challenges also count for bonus points!
@@ -15,8 +15,8 @@ Develop and refine machine learning models capable of generating image captions 
 
 ## Deliverables
 
-- A well-documented and optimized machine learning model that generates retrofuturistic-style image captions.
-- A detailed project report summarizing the methodology, findings, and user feedback.
+- Jupyter notebook of your complete machine learning model that generates retrofuturistic-style image captions.
+- A project report summarizing the methodology, findings and model accuracy.
 - Optionally, a user-friendly interface for interactive caption generation.
 - A video to demonstrate the working or testing of the final product built.
 
@@ -24,7 +24,7 @@ Develop and refine machine learning models capable of generating image captions 
 
 - [COCO Dataset](https://cocodataset.org/#home)
 - [Flickr 8k Dataset](https://www.kaggle.com/shadabhussain/flickr8k)
-- Come up with your own dataset! This could involve webscraping or manually collecting images and then labelling them
+- Come up with your own dataset! This could involve web scraping or manually collecting images and then labelling them
 
 ## Questions and Challenges for Participants
 
