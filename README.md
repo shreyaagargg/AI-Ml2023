@@ -22,3 +22,17 @@ BLEU is calculated by comparing the n-grams of the machine-generated text to the
 The BLEU score is a number between 0 and 1, with higher scores indicating better quality machine-generated text. A BLEU score of 1 indicates that the machine-generated text is identical to one of the reference translations.
 
 BLEU is a widely used metric for evaluating machine translation systems, but it can also be used to evaluate other types of machine-generated text, such as image captions, summarization, and question answering.
+## ISSUES RESOLVED :
+# Data Preprocessing:
+# Model Selection and Adaptation:
+# Caption Generation and Style Infusion:
+# Model Interpretability and Visualization:
+# Multi-Modal Learning (Optional):
+# Testing and Bug Fixes:Images with multiple objects:
+Image captioning models often struggle to generate accurate captions for images with multiple objects. This is because the model may not be able to identify the most important object in the image or the relationships between the objects.
+Images with complex backgrounds: Image captioning models can also struggle to generate accurate captions for images with complex backgrounds. This is because the model may not be able to distinguish between the foreground and background objects.
+Images with unusual or rare objects: Image captioning models may not have been trained on images of unusual or rare objects. This can lead to inaccurate or nonsensical captions.
+Images with abstract or artistic content: Image captioning models can also struggle to generate accurate captions for images with abstract or artistic content. This is because the model may not be able to understand the meaning of the image.
+# Performance Benchmarking:
+by using BART is a large language model that has been trained on a massive dataset of text and code. It has been shown to be very effective for a variety of natural language processing tasks, including image captioning.
+Also by using ViLBERT is a vision-and-language model that has been trained on a dataset of images and text. It is able to learn the relationships between images and text, which helps it to generate more accurate and informative captions.
